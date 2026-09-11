@@ -1,13 +1,13 @@
 {
-	"items": [
-	{
-		"name": "Bluetooth",
-		"priority": 2,
-		"items": [
-			{"name": "ᛒ Enable Bluetooth", "priority": 1, "action": "bin/bluetooth.sh enable"},
+    "items": [
+    {
+        "name": "Bluetooth",
+        "priority": 2,
+        "items": [
+            {"name": "ᛒ Enable Bluetooth", "priority": 1, "action": "bin/bluetooth.sh enable"},
             {"name": "ᛡ Disable Bluetooth", "priority": 2, "action": "bin/bluetooth.sh disable"},
-            {"name": "Audio only. Requires Bluetooth-capable Kindle (Oasis 2016+)", "priority": 3, "action": ""},
-		]
-	}
-	]
+            {"name": "Audio only. Requires Bluetooth-capable Kindle (Oasis 2016+)", "priority": 3, "action": ""}
+        ]
+    }
+    ]
 }

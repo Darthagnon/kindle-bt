@@ -4,7 +4,9 @@
 		<name>Bluetooth</name>
 		<version>0.2</version>
 		<author>GC777</author>
-		<id>Bluetooth</id>
+		<author>CrazyElectron</author>
+		<author>Darthagnon</author>
+		<id>bluetooth</id>
 	</information>
 	<menus>
 		<menu type="json" dynamic="true">menu.json</menu>
