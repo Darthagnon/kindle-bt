@@ -12,3 +12,5 @@ Credit [@CrazyElectron](https://github.com/crazy-electron/gambatte-k2) for the b
 Well if you're not registered on in a incompatible reigon
 it could be a pain to type long command or use gambatte via kual
 so easy home buttons
+
+-- GreenCat777 @ Kindle Modding Community Discord
