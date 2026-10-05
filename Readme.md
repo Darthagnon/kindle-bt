@@ -23,13 +23,18 @@ Either use [KOReader]'s plaintext editor (Top menu >> Wrench/Screwdriver icon >>
 ### I want to listen to audiobooks/music from my Kindle via Bluetooth headphones/speakers?
 Please use [KinAMP]; it's a music player for the Kindle that really whips the llama's ass! 
 
+### KOReader Bluetooth controls?
+[KinAMP] adds Bluetooth controls to KOReader under Top menu >> Wrench/Screwdriver icon >> KinAMP Player (Page 2) >> KinAMP's hamburger menu >> Bluetooth and Bluetooth devices. You can enable/disable Bluetooth and connect to audio devices previously added in the official Kindle Bluetooth settings here (that's what this plugin is for). Please don't expect KinAMP to keep playing your audio as you switch from Kindle usermode to KOReader and back; expect to have to reconnect to your audio devices and restart your music/audiobook.
+
+Otherwise, please use [kindle-hid-passthrough] with [kindle-button-mapper-rs] for more Bluetooth device options.
+
 ## What are the limitations?
 This plugin does not...
 - enable Amazon's official audio player (intended for Audible books). 
 - enable Amazon's official Bluetooth switch in the top menu. As a workaround, this script provides ON and OFF switches.
 - improve the Kindle's poor vanilla Bluetooth compatibility
 
-The Bluetooth control menu may also fail to pop up if you play with it too much, switching it on and off. Reboot to fix.
+The Bluetooth control menu may also fail to pop up if you play with it too much, switching it on and off. Rebooting may fix this.
 
 ### How does this interact with KOReader?
 
